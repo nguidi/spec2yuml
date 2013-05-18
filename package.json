@@ -1,0 +1,32 @@
+{
+		"name": "spec2yuml"
+	,	"version": "0.0.1"
+	,	"description": "Convert specs to uyml"
+	,	"author": "Guidi Neri <neri3004@gmail.com>"
+	,	"contributors":
+			[
+			]
+	,	"engines":
+			{
+				"node": ">= 0.6.0"
+			}
+	,	"keywords":
+		[
+			"parser"
+		,	"generator"
+		,	"specs"
+		,	"yuml"
+		]
+	,	"repository":
+		{
+			"type": "git"
+		,	"url": "git@github.com:nguidi/spec2yuml.git"
+		}
+	,	"dependencies":
+		{
+			"commander": "latest"
+		,	"ensureDir": "latest"
+		,	"underscore": "latest"
+		,	"log-color": "latest"
+		}
+}
